@@ -1,0 +1,4149 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.design-desktop-ymW {
+  box-sizing: border-box;
+  padding-bottom: 8.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #111111;
+}
+.design-desktop-ymW .hello-Yy2 {
+  margin: 0rem 0rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 4.8rem 0rem 0rem 0rem;
+  width: calc(100% - 0rem);
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/bg_hello.jpg');
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 {
+  margin: 0rem 9.5rem 22.3rem 9.6rem;
+  width: calc(100% - 19.1rem);
+  height: 13.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .logo-GRA {
+  width: 43.2rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .logo-GRA .bespoke-design-and-marketing-services-zrx {
+  width: 12.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 24rem;
+  top: 5.4rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.24;
+  color: #ffffff;
+  font-family: Unbounded, 'Source Sans Pro';
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .logo-GRA .rectangle-1-Syr {
+  width: 43.2rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .logo-GRA .star-1-yD6 {
+  width: 3.4rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 5.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .logo-GRA .influenzailla-het {
+  width: 12rem;
+  height: 2rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 5.7rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.24;
+  color: #ffffff;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk {
+  width: 81.9rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 43rem;
+  top: 0;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-2-Skt {
+  width: 15.7rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-3-srC {
+  width: 24.8rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-4-9oi {
+  width: 19.9584rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 40.1rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-5-DYg {
+  width: 15.5rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 59.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-6-SAY {
+  box-sizing: border-box;
+  padding: 2.6rem 2.402rem 2.6rem 2.697rem;
+  width: 6.7rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 75.2rem;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-6-SAY .vector-9ak {
+  width: 1.6013rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-1-4xc {
+  width: 29.1rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 0;
+  top: 6.5954rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-7-8Sg {
+  width: 20.8rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 6.5954rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-8-cck {
+  width: 13.4rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 49.5rem;
+  top: 6.5954rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-9-VRe {
+  width: 19.2rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 62.7rem;
+  top: 6.5954rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-is1j-K9n {
+  margin: 0rem 115.7rem 4.8rem 9.6rem;
+  width: calc(100% - 125.3rem);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-is1j-K9n .item-2023-RyW {
+  margin-right: 2.1rem;
+  font-size: 2.7rem;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-is1j-K9n .hi-there-lets-get-started-wBA {
+  max-width: 7.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt {
+  margin: 0rem 13.8rem 8.2rem 9.6rem;
+  width: calc(100% - 23.4rem);
+  height: 15.1rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-hscq-ZiL {
+  margin-right: 42.5rem;
+  width: 58.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-hscq-ZiL .influence-your-audience-W7n {
+  /* width: 43.9rem;
+  height: 13.4rem; */
+  position: absolute;
+  left: 0;
+  top: 1.7rem;
+  display: flex;
+  font-size: 5.4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-hscq-ZiL .item--PxG {
+  width: 13.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 29.5rem;
+  top: 0;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 300;
+  line-height: 1.24;
+  letter-spacing: -0.96rem;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-hscq-ZiL .boost-your-brand-with-our-marketing-expertise-2EY {
+  width: 24.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 33.6rem;
+  top: 10.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.24;
+  color: #ffffff;
+  font-family: Unbounded, 'Source Sans Pro';
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-zdwa-WQc {
+  margin-bottom: 0.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-zdwa-WQc .star-2-rjN {
+  margin: 0rem 0rem 1.3rem 0rem;
+  width: 2.9rem;
+  height: 2.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-zdwa-WQc .we-believe-in-the-power-of-digital-media-to-transform-businesses-and-connect-them-with-their-audiences-in-meaningful-ways-avG {
+  max-width: 19.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA {
+  box-sizing: border-box;
+  padding: 8rem 9.6rem 6.8rem 9.6rem;
+  width: 100%;
+  height: 19.2rem;
+  display: flex;
+  justify-content: center;
+  column-gap: 9.6rem;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5599999988);
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jleq-yhW {
+  width: 24rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jleq-yhW .about-us-if6 {
+  margin-bottom: 2.3rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jleq-yhW .rectangle-14-pTE {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #ffffff;
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-phze-Mxx {
+  width: 24rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-phze-Mxx .expertise-vFN {
+  margin-bottom: 2.3rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-phze-Mxx .rectangle-15-Ga8 {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #ffffff;
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-leut-pLk {
+  width: 24rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-leut-pLk .get-started-xhr {
+  margin-bottom: 2.3rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-leut-pLk .rectangle-16-Vhn {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #ffffff;
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jp6t-eKn {
+  width: 24rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jp6t-eKn .what-we-do-CcC {
+  margin-bottom: 2.3rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jp6t-eKn .rectangle-17-kNp {
+  width: 100%;
+  height: 0.2rem;
+  background-color: #ffffff;
+}
+.design-desktop-ymW #d-Ckc {
+  padding: 9.5rem 9.5rem 15.8rem 9.6rem;
+  width: calc(100% - 19.0001rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #d-Ckc .auto-group-org4-uuv {
+  margin: 0rem 48.273rem 3.1rem 0rem;
+  width: calc(100% - 48.2731rem);
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #d-Ckc .auto-group-org4-uuv .london-2006-qoa {
+  margin: 0rem 26.027rem 0.8rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #d-Ckc .auto-group-org4-uuv .our-creative-design-bureau-is-based-in-the-heart-of-london-and-specializes-in-digital-branding-website-design-and-influence-marketing-we-believe-in-the-power-of-digital-media-to-transform-businesses-and-connect-them-with-their-audiences-in-meaningful-ways-xtC {
+  max-width: 43.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-desktop-ymW #d-Ckc .auto-group-2axk-mqe {
+  width: 100%;
+  height: 33.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY {
+  margin-right: 24.4538rem;
+  width: 76.4269rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY .we-turn-your-digital-dreams-into-reality-TiU {
+  max-width: 60.8rem;
+  display: flex;
+  font-size: 5.4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY .item--B8g {
+  margin-bottom: 0.4rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 300;
+  line-height: 1.24;
+  letter-spacing: -0.96rem;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY .auto-group-su2y-EMr {
+  margin-left: 0.3223rem;
+  width: calc(100% - 0.3223rem);
+  display: flex;
+  align-items: flex-end;
+}
+.design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY .auto-group-su2y-EMr .union-x2x {
+  margin: 0rem 25.643rem 0.187rem 0rem;
+  width: 7.6621rem;
+  height: 2.8125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY .auto-group-su2y-EMr .our-team-of-experienced-designers-and-marketing-professionals-work-closely-with-each-client-to-understand-their-unique-vision-and-develop-tailored-solutions-that-align-with-their-goals-from-designing-eye-catching-logos-and-brand-identities-to-building-custom-websites-that-engage-and-convert-visitors-to-crafting-effective-influencer-marketing-campaigns-we-are-dedicated-to-helping-our-clients-succeed-in-the-digital-space-GZS {
+  max-width: 42.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2142857143;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .logo-6KW {
+  box-sizing: border-box;
+  padding: 0rem 1.201rem 3.35rem 1.301rem;
+  width: 24.1193rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1f1f1f;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .logo-6KW .maxshirkonone8e67bd67-2205-48d0-98c7-9b09c61eca12-1-coe {
+  margin-bottom: 1.45rem;
+  width: 21.6173rem;
+  height: 21.1rem;
+  position: relative;
+  background-size: 100% 102.37%;
+  background-position: 0 -0.5rem;
+  background-image: url('../images/logo_01.png');
+  flex-shrink: 0;
+}
+.design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .logo-6KW .since-2006-rhz {
+  margin-right: 0.3055rem;
+  max-width: 6.5rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .item-1-2-3-4-Mue {
+  margin: 0rem 9.5rem 0rem 9.6rem;
+  width: calc(100% - 19.1001rem);
+  height: 57.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c {
+  width: 62.4rem;
+  height: 100%;
+  position: relative;
+
+  flex-shrink: 0;
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .rectangle-20-RPi {
+  width: 62.4rem;
+  height: 28.8rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/bg_01.jpg');
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .rectangle-22-sFi {
+  width: 62.4rem;
+  height: 28.8rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/bg_03.jpg');
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .we-create-unique-brand-identities-that-resonate-with-your-target-audience-and-help-you-stand-out-in-a-crowded-marketplace-NCU {
+  width: 26.1rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 18.352rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .we-develop-influencer-campaigns-that-help-you-reach-a-wider-audience-build-brand-awareness-and-drive-conversions-pKN {
+  width: 26.7rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 48.002rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .item-01-Uep {
+  width: 5.3rem;
+  height: 5rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 10.3618rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  color: #ffffff;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .item-03-PFz {
+  width: 6.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 39.2rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  color: #ffffff;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi {
+  width: 62.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .rectangle-21-bN4 {
+  width: 62.4rem;
+  height: 28.8rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/bg_02.jpg');
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .rectangle-23-JGU {
+  width: 62.4rem;
+  height: 28.8rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/bg_04.jpg');
+  overflow: hidden;
+  z-index: 0;}
+/* }.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .rectangle-23-JGU:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-image: url('../images/bg_04.jpg');
+    background-repeat: round;
+    transform: matrix(-0.0000000719, 1.8089366345, -5.3587962503, -0.0000002576, 58.660765334, -90.2980693913);
+} */
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .we-build-custom-websites-that-are-visually-stunning-easy-to-navigate-and-optimized-for-search-engines-Zy6 {
+  width: 26rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 19.202rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .we-produce-high-quality-content-that-engages-your-audience-builds-trust-and-reinforces-your-brand-message-3NU {
+  width: 27.3rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 48.002rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .item-02-7t8 {
+  width: 6.6rem;
+  height: 5rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 10.4rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  color: #ffffff;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .item-04-d5n {
+  width: 6.6rem;
+  height: 5rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 39.2rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  color: #ffffff;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-desktop-ymW #th-6EG {
+  padding: 13rem 9.5rem 10.8rem 9.6rem;
+  width: calc(100% - 18.9001rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-6EG .auto-group-eqkx-DJt {
+  margin-bottom: 7.5rem;
+  width: 77rem;
+  height: 14.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-6EG .auto-group-eqkx-DJt .help-our-clients-achive-their-business-objectives-x1a {
+  width: 77rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.5rem;
+  display: flex;
+  font-size: 5.4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #th-6EG .auto-group-eqkx-DJt .item--44c {
+  width: 19.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 49.5rem;
+  top: 0;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 300;
+  line-height: 1.24;
+  letter-spacing: -0.96rem;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #th-6EG .auto-group-5bel-8aG {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-6EG .auto-group-5bel-8aG .london-2006-HTA {
+  margin: 1rem 26rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #th-6EG .auto-group-5bel-8aG .influenzilla-is-a-leading-design-and-marketing-agency-that-offers-creative-solutions-to-businesses-of-all-sizes-our-team-of-experts-specializes-in-creating-unique-and-effective-designs-that-help-our-clients-stand-out-in-a-crowded-market-our-mission-is-to-help-our-clients-achieve-their-business-objectives-through-innovative-and-effective-design-solutions-we-believe-that-great-design-is-more-than-just-aesthetics-its-about-creating-a-seamless-user-experience-that-engages-and-delights-your-audience-1e4 {
+  margin-right: 10.8rem;
+  max-width: 37.4rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-6EG .auto-group-5bel-8aG .we-take-pride-in-our-ability-to-understand-the-unique-needs-and-goals-of-each-of-our-clients-and-to-develop-customized-solutions-that-exceed-their-expectations-our-team-of-talented-designers-and-marketers-work-closely-with-our-clients-to-create-a-cohesive-brand-identity-effective-marketing-strategies-and-user-friendly-websites-and-applications-we-offer-a-wide-range-of-services-including-branding-web-design-social-media-marketing-graphic-design-and-more-our-goal-is-to-help-our-clients-achieve-success-by-providing-them-with-the-tools-and-resources-they-need-to-grow-their-business-uN4 {
+  max-width: 43.3rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q {
+  box-sizing: border-box;
+  padding-top: 2.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 {
+  margin: 0rem 0.1rem 2.1rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 36.1rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .star-3-esN {
+  margin: 0rem 30.7rem 2.5rem 0rem;
+  width: 2.9rem;
+  height: 2.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ {
+  width: 91.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .paragraph-1 {
+  width: 14.6rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 23.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .logo-1-9xY {
+  width: 4.8286rem;
+  height: 4.8286rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 16.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .logo-2-9xY {
+  width: 4.8286rem;
+  height: 4.8286rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 16.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .logo-3-9xY {
+  width: 4.8286rem;
+  height: 4.8286rem;
+  position: absolute;
+  left: 13.1rem;
+  top: 16.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-47-gSg {
+  width: 30.6rem;
+  height: 14.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: none;
+  border: none;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-47-gSg .branding-q4g {
+  width: 15.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 4.85rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-47-gSg .rectangle-24-95N {
+  width: 30.6rem;
+  height: 14.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .rectangle-25-Trk {
+  width: 91.4rem;
+  height: 22rem;
+  position: absolute;
+  left: 0;
+  top: 14.1rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .paragraph-2 {
+  width: 31.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 29.2rem;
+  top: 23.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-45-pKv {
+  width: 30.6rem;
+  height: 14.3rem;
+  position: absolute;
+  left: 30.4rem;
+  top: 0;
+  background: none;
+  border: none;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-45-pKv .design-Mak {
+  width: 11.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 4.85rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-45-pKv .rectangle-26-soz {
+  width: 30.6rem;
+  height: 14.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-45-pKv .group-12-pUL {
+  width: 4.8286rem;
+  height: 4.8286rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 4.3rem;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-46-MjA {
+  width: 30.6rem;
+  height: 14.3rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 0;
+  background: none;
+  border: none;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-46-MjA .marketing-uVn {
+  width: 17.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 4.85rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-46-MjA .rectangle-28-24c {
+  width: 30.6rem;
+  height: 14.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-46-MjA .group-12-m2C {
+  width: 4.8286rem;
+  height: 4.8286rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 4.3rem;
+}
+.design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .we-specialize-in-creating-unique-and-innovative-designs-that-not-only-capture-the-essence-of-your-business-but-also-help-you-achieve-your-goals-we-believe-that-great-design-is-about-creating-a-seamless-user-experience-that-engages-and-delights-your-audience-and-we-work-hard-to-ensure-that-every-design-we-create-meets-this-high-standard-64U {
+  margin-right: 14.6rem;
+  max-width: 43.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-qgG {
+  margin: 0rem 0rem 0rem 0rem;
+  width: calc(100% - 0.0001rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY {
+  margin-bottom: 8.8rem;
+  box-sizing: border-box;
+  padding: 8.421rem 17.5rem 6.37rem 9.5rem;
+  width: 100%;
+  height: 62.4rem;
+  flex-shrink: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/bg_expertise.jpg');
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-yziq-r5a {
+  margin: 0rem 0rem 29.851rem 0.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-yziq-r5a .hi-there-lets-get-started-MY8 {
+  margin-right: 74.1rem;
+  max-width: 7.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-yziq-r5a .hi-there-lets-get-started-UMr {
+  margin-right: 11.3rem;
+  max-width: 7.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-yziq-r5a .hi-there-lets-get-started-afn {
+  max-width: 7.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-bjyz-fSL {
+  width: 100%;
+  height: 14.7574rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-bjyz-fSL .auto-group-tfjk-ooS {
+  margin-right: 38.8rem;
+  width: 43.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-bjyz-fSL .auto-group-tfjk-ooS .expertise-and-experience-9cQ {
+  width: 43.1rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.3574rem;
+  display: flex;
+  font-size: 5.4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-bjyz-fSL .auto-group-tfjk-ooS .item--s2c {
+  width: 11rem;
+  height: 6rem;
+  position: absolute;
+  left: 31rem;
+  top: 0;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 300;
+  line-height: 1.24;
+  letter-spacing: -0.96rem;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-bjyz-fSL .we-believe-that-building-long-lasting-relationships-with-our-clients-is-key-to-achieving-success-we-are-passionate-about-what-we-do-and-we-are-committed-to-delivering-exceptional-results-for-every-client-we-work-with-kMJ {
+  margin-bottom: 0.4297rem;
+  max-width: 35.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .auto-group-2kmn-AiY-bg {
+  width: 144rem;
+  height: 62.4rem;
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+}
+/* .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .auto-group-2kmn-AiY-bg:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-image: url('REPLACE_IMAGE:bbc4f8226ae3daeb55f6f8cce3eb93e75f8cce97');
+    background-repeat: round;
+    transform: matrix(-2.512251034, 1.9223104589, -1.6339609956, -1.2502648765, 112.2777480088, -106.8317556027);
+} */
+.design-desktop-ymW #th-qgG .auto-group-xkpj-StL {
+  margin: 0rem 10.9rem 0rem 9.5rem;
+  width: calc(100% - 20.4rem);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-qgG .auto-group-xkpj-StL .union-ke8 {
+  margin: 1.223rem 26.044rem 0rem 0rem;
+  width: 7.6559rem;
+  height: 2.7865rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-qgG .auto-group-xkpj-StL .our-team-of-talented-designers-and-marketers-works-closely-with-each-of-our-clients-taking-the-time-to-understand-their-unique-needs-and-goals-and-developing-customized-solutions-that-exceed-their-expectations-we-take-pride-in-our-ability-to-create-a-cohesive-brand-identity-effective-marketing-strategies-and-user-friendly-websites-and-applications-that-help-our-clients-achieve-success-V5v {
+  margin: 0.9rem 5.1rem 0rem 0rem;
+  max-width: 43.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-desktop-ymW #th-qgG .auto-group-xkpj-StL .so-if-youre-a-start-up-looking-to-create-a-strong-brand-identity-or-an-established-business-looking-to-revamp-your-marketing-strategy-we-have-the-expertise-and-experience-to-help-you-succeed-contact-us-today-to-learn-more-about-our-services-and-how-we-can-help-your-business-grow-we-look-forward-to-hearing-from-you-and-starting-this-exciting-journey-together-qZ6 {
+  max-width: 41.7rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-desktop-ymW #clients-C2G {
+  margin: 11rem 76.7rem 4rem 0rem;
+  width: 49.3rem;
+  height: 14.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-desktop-ymW #clients-C2G .projects-for-our-clients-tQt {
+  width: 49.3rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  display: flex;
+  font-size: 5.4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW #clients-C2G .item--CRa {
+  width: 9.6rem;
+  height: 6rem;
+  position: absolute;
+  left: 38.2rem;
+  top: 0;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 300;
+  line-height: 1.24;
+  letter-spacing: -0.96rem;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .group-36-6Wx {
+  margin: 0rem 9.5rem 16.6rem 9.5rem;
+  width: calc(100% - 19.0001rem);
+  align-items: center;
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .group-36-6Wx .carousel {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  /* height: 33.7rem; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+/* .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner{
+  overflow: hidden;
+  display: flex;
+  position: relative;
+} */
+/* .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner::after {
+  display: block;
+  clear: both;
+  content: "";
+} */
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item {
+  flex-shrink: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  transition: transform .6s ease-in-out;
+  overflow: hidden;
+  /* position: relative; */
+  /* float: left; */
+  /* width: 100%; */
+} 
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 33.7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  backface-visibility: hidden;
+  overflow: hidden;
+  position: relative;
+} 
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-30-NUU {
+  box-sizing: border-box;
+  padding: 3.6rem 4.8rem 6rem 4.8rem;
+  width:  62.5rem;
+  height: 33.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/bg_branding.jpg');
+  flex-shrink: 0;
+}
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-30-NUU .branding-JN8 {
+  margin: 0rem 0rem 5.3rem 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-30-NUU .title-1 {
+  margin-bottom: 2.2rem;
+  max-width: 25.3rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  color: #ffffff;
+  font-family: Unbounded, 'Source Sans Pro';
+}
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-30-NUU .detail-1 {
+  max-width: 26.3rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+}
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-30-NUU .group-30-NUU-bg {
+  width: 62.5rem;
+  height: 33.7rem;
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+}
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-31-hHn {
+  box-sizing: border-box;
+  padding: 3.3rem 4.8rem 5.5rem 4.8rem;
+  width: 62.5rem;
+  height: 33.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../images/bg_webdesign.jpg');
+  flex-shrink: 0;
+}
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-31-hHn .web-design-2L4 {
+  margin-bottom: 5.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-31-hHn .title-2 {
+  margin: 0rem 0rem 1.3rem 0.2rem;
+  max-width: 27.5rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.24;
+  color: #ffffff;
+  font-family: Unbounded, 'Source Sans Pro';
+}
+.design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-31-hHn .detail-2 {
+  max-width: 26.4rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e4e4e4;
+  font-family: Inter, 'Source Sans Pro';
+}
+/* .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-31-hHn .group-31-hHn-bg {
+  width: 62.5rem;
+  height: 33.7rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:bbc4f8226ae3daeb55f6f8cce3eb93e75f8cce97');
+} */
+.design-desktop-ymW .group-36-6Wx .one-line {
+  display: inline-flex;
+  justify-content: center;
+}
+.design-desktop-ymW .group-36-6Wx .carousel-indicators {
+  /* display: inline; */
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 99;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.design-desktop-ymW .group-36-6Wx .carousel-indicators .active{
+  opacity: 1;
+  background-color: #e28224;
+}
+.design-desktop-ymW .group-36-6Wx .carousel-indicators button{
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 100%;
+  background-color: #ffffff;
+  opacity: 1;
+}
+.design-desktop-ymW .group-36-6Wx .one-line .ellipse {
+    position: relative;
+    right: 0;
+    /* bottom: 10px; */
+    /* left: 0; */
+    /* z-index: 15; */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    /* margin-right: 15%;
+    margin-left: 15%; */
+    list-style: none;
+    gap: 2rem;
+    width: 15px;
+    height: 15px;  
+}
+.design-desktop-ymW .group-36-6Wx .one-line .carousel-control-prev{
+  position: relative;
+  width: 13rem;
+  height: 13rem;
+  top: 0;
+  left: 0;
+  align-items: normal;
+}
+.design-desktop-ymW .group-36-6Wx .one-line .carousel-control-next{
+  position: relative;
+  width: 13rem;
+  height: 13rem;
+  top: 0;
+  left: 0;
+  align-items: normal;
+}
+.design-desktop-ymW .group-36-6Wx .auto-group-amfa-Vsr {
+  margin-right: 0.2rem;
+  width: 23rem;
+  height: 4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .footer-Qzp {
+  margin: 0rem 9.5rem 0rem 9.6rem;
+  width: calc(100% - 19.1001rem);
+  height: 13.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-desktop-ymW .footer-Qzp .logo-7uE {
+  width: 43.2rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.design-desktop-ymW .footer-Qzp .logo-7uE .bespoke-design-and-marketing-services-TiC {
+  width: 12.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 24rem;
+  top: 5.4rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .footer-Qzp .logo-7uE .influenzailla-ZmE {
+  width: 12rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 5.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.24;
+  font-family: Unbounded, 'Source Sans Pro';
+  white-space: nowrap;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .footer-Qzp .logo-7uE .rectangle-1-gL4 {
+  width: 43.2rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+}
+.design-desktop-ymW .footer-Qzp .logo-7uE .star-1-6Pn {
+  width: 3.4rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 5.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U {
+  width: 81.9rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 43rem;
+  top: 0;
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U .group-2-kDS {
+  width: 15.7rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U .group-3-C5S {
+  width: 24.8rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U .group-4-UYk {
+  width: 19.9584rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 40.1rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U .group-5-mGx {
+  width: 15.5rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 59.9rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U .group-6-r3W {
+  box-sizing: border-box;
+  padding: 2.6rem 2.5rem 2.6rem 2.6rem;
+  width: 6.7rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 75.2rem;
+  top: 0;
+  border: solid 0.2rem #ffffff;
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U .group-6-r3W .vector-Mkx {
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U .group-1-tVz {
+  width: 29.1rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 0;
+  top: 6.5954rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U .group-7-jFi {
+  width: 20.8rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 6.5954rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U .group-8-DAt {
+  width: 13.4rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 49.5rem;
+  top: 6.5954rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+.design-desktop-ymW .footer-Qzp .menu-q6U .group-9-5yn {
+  width: 19.2rem;
+  height: 6.8047rem;
+  position: absolute;
+  left: 62.7rem;
+  top: 6.5954rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background: linear-gradient(
+    180deg,
+    rgb(198, 241, 247) 0%,
+    rgb(249, 131, 233) 36.46%,
+    rgb(184.48, 119, 255) 73.96%,
+    rgb(193.91, 232.69, 205.17) 100%
+  );
+-webkit-background-clip: text !important;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 385px) {
+  html {
+    font-size:62.5%;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  ul, li {
+    list-style: none;
+  }
+  input {
+    border: none;
+  }
+  body {
+    width: 100%;
+  }.design-desktop-ymW {
+    box-sizing: border-box;
+    padding-bottom: 8.2rem;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #111111;
+  }
+  .design-desktop-ymW .hello-Yy2 {
+    margin: 0rem 0rem 0rem 0rem;
+    box-sizing: border-box;
+    padding: 4.8rem 0rem 0rem 0rem;
+    width: calc(100% - 0rem);
+    display: flex;
+    flex-direction: column;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../images/bg_hello.jpg');
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 {
+    margin: 0rem 9.5rem 22.3rem 9.6rem;
+    width: calc(100% - 19.1rem);
+    height: 13.4rem;
+    position: relative;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .logo-GRA {
+    width: 43.2rem;
+    height: 13.4rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .logo-GRA .bespoke-design-and-marketing-services-zrx {
+    width: 12.7rem;
+    height: 2.5rem;
+    position: absolute;
+    left: 24rem;
+    top: 5.4rem;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.24;
+    color: #ffffff;
+    font-family: Unbounded, 'Source Sans Pro';
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .logo-GRA .rectangle-1-Syr {
+    width: 43.2rem;
+    height: 13.4rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .logo-GRA .star-1-yD6 {
+    width: 3.4rem;
+    height: 3.4rem;
+    position: absolute;
+    left: 3.1rem;
+    top: 5.1rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .logo-GRA .influenzailla-het {
+    width: 12rem;
+    height: 2rem;
+    position: absolute;
+    left: 6.9rem;
+    top: 5.7rem;
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 1.24;
+    color: #ffffff;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk {
+    width: 81.9rem;
+    height: 13.4rem;
+    position: absolute;
+    left: 43rem;
+    top: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-2-Skt {
+    width: 15.7rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-3-srC {
+    width: 24.8rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 15.5rem;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-4-9oi {
+    width: 19.9584rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 40.1rem;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-5-DYg {
+    width: 15.5rem;
+    height: 6.8rem;
+    position: absolute;
+    left: 59.9rem;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-6-SAY {
+    box-sizing: border-box;
+    padding: 2.6rem 2.402rem 2.6rem 2.697rem;
+    width: 6.7rem;
+    height: 6.8rem;
+    position: absolute;
+    left: 75.2rem;
+    top: 0;
+    border: solid 0.2rem #ffffff;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-6-SAY .vector-9ak {
+    width: 1.6013rem;
+    height: 1.6rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-1-4xc {
+    width: 29.1rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 0;
+    top: 6.5954rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-7-8Sg {
+    width: 20.8rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 28.9rem;
+    top: 6.5954rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-8-cck {
+    width: 13.4rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 49.5rem;
+    top: 6.5954rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW .hello-Yy2 .header-MZ6 .menu-Lxk .group-9-VRe {
+    width: 19.2rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 62.7rem;
+    top: 6.5954rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-is1j-K9n {
+    margin: 0rem 115.7rem 4.8rem 9.6rem;
+    width: calc(100% - 125.3rem);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-is1j-K9n .item-2023-RyW {
+    margin-right: 2.1rem;
+    font-size: 2.7rem;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-is1j-K9n .hi-there-lets-get-started-wBA {
+    max-width: 7.7rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt {
+    margin: 0rem 13.8rem 8.2rem 9.6rem;
+    width: calc(100% - 23.4rem);
+    height: 15.1rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-hscq-ZiL {
+    margin-right: 42.5rem;
+    width: 58.3rem;
+    height: 100%;
+    position: relative;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-hscq-ZiL .influence-your-audience-W7n {
+    /* width: 43.9rem;
+    height: 13.4rem; */
+    position: absolute;
+    left: 0;
+    top: 1.7rem;
+    display: flex;
+    font-size: 5.4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    background: linear-gradient(
+        180deg,
+        rgb(198, 241, 247) 0%,
+        rgb(249, 131, 233) 36.46%,
+        rgb(184.48, 119, 255) 73.96%,
+        rgb(193.91, 232.69, 205.17) 100%
+      );
+    -webkit-background-clip: text !important;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-hscq-ZiL .item--PxG {
+    width: 13.7rem;
+    height: 6rem;
+    position: absolute;
+    left: 29.5rem;
+    top: 0;
+    display: flex;
+    font-size: 4.8rem;
+    font-weight: 300;
+    line-height: 1.24;
+    letter-spacing: -0.96rem;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-hscq-ZiL .boost-your-brand-with-our-marketing-expertise-2EY {
+    width: 24.7rem;
+    height: 4rem;
+    position: absolute;
+    left: 33.6rem;
+    top: 10.1rem;
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.24;
+    color: #000000;
+    font-family: Unbounded, 'Source Sans Pro';
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-zdwa-WQc {
+    margin-bottom: 0.1rem;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-zdwa-WQc .star-2-rjN {
+    margin: 0rem 0rem 1.3rem 0rem;
+    width: 2.9rem;
+    height: 2.9rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .auto-group-dxvs-3zt .auto-group-zdwa-WQc .we-believe-in-the-power-of-digital-media-to-transform-businesses-and-connect-them-with-their-audiences-in-meaningful-ways-avG {
+    max-width: 19.8rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA {
+    box-sizing: border-box;
+    padding: 8rem 9.6rem 6.8rem 9.6rem;
+    width: 100%;
+    height: 19.2rem;
+    display: flex;
+    justify-content: center;
+    column-gap: 9.6rem;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5599999988);
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jleq-yhW {
+    width: 24rem;
+    height: 100%;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jleq-yhW .about-us-if6 {
+    margin-bottom: 2.3rem;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jleq-yhW .rectangle-14-pTE {
+    width: 100%;
+    height: 0.2rem;
+    background-color: #ffffff;
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-phze-Mxx {
+    width: 24rem;
+    height: 100%;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-phze-Mxx .expertise-vFN {
+    margin-bottom: 2.3rem;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-phze-Mxx .rectangle-15-Ga8 {
+    width: 100%;
+    height: 0.2rem;
+    background-color: #ffffff;
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-leut-pLk {
+    width: 24rem;
+    height: 100%;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-leut-pLk .get-started-xhr {
+    margin-bottom: 2.3rem;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-leut-pLk .rectangle-16-Vhn {
+    width: 100%;
+    height: 0.2rem;
+    background-color: #ffffff;
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jp6t-eKn {
+    width: 24rem;
+    height: 100%;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jp6t-eKn .what-we-do-CcC {
+    margin-bottom: 2.3rem;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .hello-Yy2 .nd-TjA .auto-group-jp6t-eKn .rectangle-17-kNp {
+    width: 100%;
+    height: 0.2rem;
+    background-color: #ffffff;
+  }
+  .design-desktop-ymW #d-Ckc {
+    padding: 9.5rem 9.5rem 15.8rem 9.6rem;
+    width: calc(100% - 19.0001rem);
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-org4-uuv {
+    margin: 0rem 48.273rem 3.1rem 0rem;
+    width: calc(100% - 48.2731rem);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-org4-uuv .london-2006-qoa {
+    margin: 0rem 26.027rem 0.8rem 0rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-org4-uuv .our-creative-design-bureau-is-based-in-the-heart-of-london-and-specializes-in-digital-branding-website-design-and-influence-marketing-we-believe-in-the-power-of-digital-media-to-transform-businesses-and-connect-them-with-their-audiences-in-meaningful-ways-xtC {
+    max-width: 43.1rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-2axk-mqe {
+    width: 100%;
+    height: 33.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY {
+    margin-right: 24.4538rem;
+    width: 76.4269rem;
+    height: 100%;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY .we-turn-your-digital-dreams-into-reality-TiU {
+    max-width: 60.8rem;
+    display: flex;
+    font-size: 5.4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY .item--B8g {
+    margin-bottom: 0.4rem;
+    display: flex;
+    font-size: 4.8rem;
+    font-weight: 300;
+    line-height: 1.24;
+    letter-spacing: -0.96rem;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY .auto-group-su2y-EMr {
+    margin-left: 0.3223rem;
+    width: calc(100% - 0.3223rem);
+    display: flex;
+    align-items: flex-end;
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY .auto-group-su2y-EMr .union-x2x {
+    margin: 0rem 25.643rem 0.187rem 0rem;
+    width: 7.6621rem;
+    height: 2.8125rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .auto-group-biza-viY .auto-group-su2y-EMr .our-team-of-experienced-designers-and-marketing-professionals-work-closely-with-each-client-to-understand-their-unique-vision-and-develop-tailored-solutions-that-align-with-their-goals-from-designing-eye-catching-logos-and-brand-identities-to-building-custom-websites-that-engage-and-convert-visitors-to-crafting-effective-influencer-marketing-campaigns-we-are-dedicated-to-helping-our-clients-succeed-in-the-digital-space-GZS {
+    max-width: 42.8rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2142857143;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .logo-6KW {
+    box-sizing: border-box;
+    padding: 0rem 1.201rem 3.35rem 1.301rem;
+    width: 24.1193rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #1f1f1f;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .logo-6KW .maxshirkonone8e67bd67-2205-48d0-98c7-9b09c61eca12-1-coe {
+    margin-bottom: 1.45rem;
+    width: 21.6173rem;
+    height: 21.1rem;
+    position: relative;
+    background-size: 100% 102.37%;
+    background-position: 0 -0.5rem;
+    background-image: url('../images/logo_01.png');
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #d-Ckc .auto-group-2axk-mqe .logo-6KW .since-2006-rhz {
+    margin-right: 0.3055rem;
+    max-width: 6.5rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue {
+    margin: 0rem 9.5rem 0rem 9.6rem;
+    width: calc(100% - 19.1001rem);
+    height: 57.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c {
+    width: 62.4rem;
+    height: 100%;
+    position: relative;
+  
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .rectangle-20-RPi {
+    width: 62.4rem;
+    height: 28.8rem;
+    position: relative;
+    left: 0;
+    top: 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../images/bg_01.jpg');
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .rectangle-22-sFi {
+    width: 62.4rem;
+    height: 28.8rem;
+    position: relative;
+    left: 0;
+    top: 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../images/bg_03.jpg');
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .we-create-unique-brand-identities-that-resonate-with-your-target-audience-and-help-you-stand-out-in-a-crowded-marketplace-NCU {
+    width: 26.1rem;
+    height: 6.8rem;
+    position: absolute;
+    left: 4.8rem;
+    top: 18.352rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .we-develop-influencer-campaigns-that-help-you-reach-a-wider-audience-build-brand-awareness-and-drive-conversions-pKN {
+    width: 26.7rem;
+    height: 5.1rem;
+    position: absolute;
+    left: 4.8rem;
+    top: 48.002rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .item-01-Uep {
+    width: 5.3rem;
+    height: 5rem;
+    position: absolute;
+    left: 5.5rem;
+    top: 10.3618rem;
+    font-size: 4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    color: #ffffff;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-qmyg-H2c .item-03-PFz {
+    width: 6.7rem;
+    height: 5rem;
+    position: absolute;
+    left: 4.8rem;
+    top: 39.2rem;
+    font-size: 4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    color: #ffffff;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi {
+    width: 62.5rem;
+    height: 100%;
+    position: relative;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .rectangle-21-bN4 {
+    width: 62.4rem;
+    height: 28.8rem;
+    position: relative;
+    left: 0;
+    top: 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../images/bg_02.jpg');
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .rectangle-23-JGU {
+    width: 62.4rem;
+    height: 28.8rem;
+    position: relative;
+    left: 0;
+    top: 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../images/bg_04.jpg');
+    overflow: hidden;
+    z-index: 0;}
+  /* }.design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .rectangle-23-JGU:before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      background-image: url('../images/bg_04.jpg');
+      background-repeat: round;
+      transform: matrix(-0.0000000719, 1.8089366345, -5.3587962503, -0.0000002576, 58.660765334, -90.2980693913);
+  } */
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .we-build-custom-websites-that-are-visually-stunning-easy-to-navigate-and-optimized-for-search-engines-Zy6 {
+    width: 26rem;
+    height: 5.1rem;
+    position: absolute;
+    left: 4.8rem;
+    top: 19.202rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .we-produce-high-quality-content-that-engages-your-audience-builds-trust-and-reinforces-your-brand-message-3NU {
+    width: 27.3rem;
+    height: 5.1rem;
+    position: absolute;
+    left: 4.8rem;
+    top: 48.002rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .item-02-7t8 {
+    width: 6.6rem;
+    height: 5rem;
+    position: absolute;
+    left: 4.8rem;
+    top: 10.4rem;
+    font-size: 4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    color: #ffffff;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .design-desktop-ymW .item-1-2-3-4-Mue .auto-group-x2pw-5Pi .item-04-d5n {
+    width: 6.6rem;
+    height: 5rem;
+    position: absolute;
+    left: 4.9rem;
+    top: 39.2rem;
+    font-size: 4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    color: #ffffff;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .design-desktop-ymW #th-6EG {
+    padding: 13rem 9.5rem 10.8rem 9.6rem;
+    width: calc(100% - 18.9001rem);
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-eqkx-DJt {
+    margin-bottom: 7.5rem;
+    width: 77rem;
+    height: 14.9rem;
+    position: relative;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-eqkx-DJt .help-our-clients-achive-their-business-objectives-x1a {
+    width: 77rem;
+    height: 13.4rem;
+    position: absolute;
+    left: 0;
+    top: 1.5rem;
+    display: flex;
+    font-size: 5.4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #th-6EG .auto-group-eqkx-DJt .item--44c {
+    width: 19.2rem;
+    height: 6rem;
+    position: absolute;
+    left: 49.5rem;
+    top: 0;
+    display: flex;
+    font-size: 4.8rem;
+    font-weight: 300;
+    line-height: 1.24;
+    letter-spacing: -0.96rem;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #th-6EG .auto-group-5bel-8aG {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-5bel-8aG .london-2006-HTA {
+    margin: 1rem 26rem 0rem 0rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #th-6EG .auto-group-5bel-8aG .influenzilla-is-a-leading-design-and-marketing-agency-that-offers-creative-solutions-to-businesses-of-all-sizes-our-team-of-experts-specializes-in-creating-unique-and-effective-designs-that-help-our-clients-stand-out-in-a-crowded-market-our-mission-is-to-help-our-clients-achieve-their-business-objectives-through-innovative-and-effective-design-solutions-we-believe-that-great-design-is-more-than-just-aesthetics-its-about-creating-a-seamless-user-experience-that-engages-and-delights-your-audience-1e4 {
+    margin-right: 10.8rem;
+    max-width: 37.4rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-5bel-8aG .we-take-pride-in-our-ability-to-understand-the-unique-needs-and-goals-of-each-of-our-clients-and-to-develop-customized-solutions-that-exceed-their-expectations-our-team-of-talented-designers-and-marketers-work-closely-with-our-clients-to-create-a-cohesive-brand-identity-effective-marketing-strategies-and-user-friendly-websites-and-applications-we-offer-a-wide-range-of-services-including-branding-web-design-social-media-marketing-graphic-design-and-more-our-goal-is-to-help-our-clients-achieve-success-by-providing-them-with-the-tools-and-resources-they-need-to-grow-their-business-uN4 {
+    max-width: 43.3rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q {
+    box-sizing: border-box;
+    padding-top: 2.6rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 {
+    margin: 0rem 0.1rem 2.1rem 0rem;
+    width: calc(100% - 0.1rem);
+    height: 36.1rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .star-3-esN {
+    margin: 0rem 30.7rem 2.5rem 0rem;
+    width: 2.9rem;
+    height: 2.9rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ {
+    width: 91.4rem;
+    height: 100%;
+    position: relative;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .paragraph-1 {
+    width: 14.6rem;
+    height: 6.8rem;
+    position: absolute;
+    left: 5.1rem;
+    top: 23.8rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .logo-1-9xY {
+    width: 4.8286rem;
+    height: 4.8286rem;
+    position: absolute;
+    left: 5.1rem;
+    top: 16.8rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .logo-2-9xY {
+    width: 4.8286rem;
+    height: 4.8286rem;
+    position: absolute;
+    left: 9.1rem;
+    top: 16.8rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .logo-3-9xY {
+    width: 4.8286rem;
+    height: 4.8286rem;
+    position: absolute;
+    left: 13.1rem;
+    top: 16.8rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-47-gSg {
+    width: 30.6rem;
+    height: 14.3rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: none;
+    border: none;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-47-gSg .branding-q4g {
+    width: 15.8rem;
+    height: 3.8rem;
+    position: absolute;
+    left: 5.1rem;
+    top: 4.85rem;
+    display: flex;
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-47-gSg .rectangle-24-95N {
+    width: 30.6rem;
+    height: 14.3rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .rectangle-25-Trk {
+    width: 91.4rem;
+    height: 22rem;
+    position: absolute;
+    left: 0;
+    top: 14.1rem;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .paragraph-2 {
+    width: 31.3rem;
+    height: 6.8rem;
+    position: absolute;
+    left: 29.2rem;
+    top: 23.8rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-45-pKv {
+    width: 30.6rem;
+    height: 14.3rem;
+    position: absolute;
+    left: 30.4rem;
+    top: 0;
+    background: none;
+    border: none;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-45-pKv .design-Mak {
+    width: 11.9rem;
+    height: 3.8rem;
+    position: absolute;
+    left: 5.1rem;
+    top: 4.85rem;
+    display: flex;
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-45-pKv .rectangle-26-soz {
+    width: 30.6rem;
+    height: 14.3rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-45-pKv .group-12-pUL {
+    width: 4.8286rem;
+    height: 4.8286rem;
+    position: absolute;
+    left: 5.1rem;
+    top: 4.3rem;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-46-MjA {
+    width: 30.6rem;
+    height: 14.3rem;
+    position: absolute;
+    left: 60.8rem;
+    top: 0;
+    background: none;
+    border: none;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-46-MjA .marketing-uVn {
+    width: 17.9rem;
+    height: 3.8rem;
+    position: absolute;
+    left: 5.1rem;
+    top: 4.85rem;
+    display: flex;
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-46-MjA .rectangle-28-24c {
+    width: 30.6rem;
+    height: 14.3rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .auto-group-rj5e-8e8 .group-60-LEQ .group-46-MjA .group-12-m2C {
+    width: 4.8286rem;
+    height: 4.8286rem;
+    position: absolute;
+    left: 5.5rem;
+    top: 4.3rem;
+  }
+  .design-desktop-ymW #th-6EG .auto-group-ru8y-b8Q .we-specialize-in-creating-unique-and-innovative-designs-that-not-only-capture-the-essence-of-your-business-but-also-help-you-achieve-your-goals-we-believe-that-great-design-is-about-creating-a-seamless-user-experience-that-engages-and-delights-your-audience-and-we-work-hard-to-ensure-that-every-design-we-create-meets-this-high-standard-64U {
+    margin-right: 14.6rem;
+    max-width: 43.3rem;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-qgG {
+    margin: 0rem 0rem 0rem 0rem;
+    width: calc(100% - 0.0001rem);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY {
+    margin-bottom: 8.8rem;
+    box-sizing: border-box;
+    padding: 8.421rem 17.5rem 6.37rem 9.5rem;
+    width: 100%;
+    height: 62.4rem;
+    flex-shrink: 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../images/bg_expertise.jpg');
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-yziq-r5a {
+    margin: 0rem 0rem 29.851rem 0.1rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-yziq-r5a .hi-there-lets-get-started-MY8 {
+    margin-right: 74.1rem;
+    max-width: 7.7rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-yziq-r5a .hi-there-lets-get-started-UMr {
+    margin-right: 11.3rem;
+    max-width: 7.7rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-yziq-r5a .hi-there-lets-get-started-afn {
+    max-width: 7.7rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-bjyz-fSL {
+    width: 100%;
+    height: 14.7574rem;
+    display: flex;
+    align-items: flex-end;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-bjyz-fSL .auto-group-tfjk-ooS {
+    margin-right: 38.8rem;
+    width: 43.1rem;
+    height: 100%;
+    position: relative;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-bjyz-fSL .auto-group-tfjk-ooS .expertise-and-experience-9cQ {
+    width: 43.1rem;
+    height: 13.4rem;
+    position: absolute;
+    left: 0;
+    top: 1.3574rem;
+    display: flex;
+    font-size: 5.4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-bjyz-fSL .auto-group-tfjk-ooS .item--s2c {
+    width: 11rem;
+    height: 6rem;
+    position: absolute;
+    left: 31rem;
+    top: 0;
+    display: flex;
+    font-size: 4.8rem;
+    font-weight: 300;
+    line-height: 1.24;
+    letter-spacing: -0.96rem;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .group-27-66Q .auto-group-bjyz-fSL .we-believe-that-building-long-lasting-relationships-with-our-clients-is-key-to-achieving-success-we-are-passionate-about-what-we-do-and-we-are-committed-to-delivering-exceptional-results-for-every-client-we-work-with-kMJ {
+    margin-bottom: 0.4297rem;
+    max-width: 35.1rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .auto-group-2kmn-AiY-bg {
+    width: 144rem;
+    height: 62.4rem;
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+  }
+  /* .design-desktop-ymW #th-qgG .auto-group-2kmn-AiY .auto-group-2kmn-AiY-bg:before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      background-image: url('REPLACE_IMAGE:bbc4f8226ae3daeb55f6f8cce3eb93e75f8cce97');
+      background-repeat: round;
+      transform: matrix(-2.512251034, 1.9223104589, -1.6339609956, -1.2502648765, 112.2777480088, -106.8317556027);
+  } */
+  .design-desktop-ymW #th-qgG .auto-group-xkpj-StL {
+    margin: 0rem 10.9rem 0rem 9.5rem;
+    width: calc(100% - 20.4rem);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-qgG .auto-group-xkpj-StL .union-ke8 {
+    margin: 1.223rem 26.044rem 0rem 0rem;
+    width: 7.6559rem;
+    height: 2.7865rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-qgG .auto-group-xkpj-StL .our-team-of-talented-designers-and-marketers-works-closely-with-each-of-our-clients-taking-the-time-to-understand-their-unique-needs-and-goals-and-developing-customized-solutions-that-exceed-their-expectations-we-take-pride-in-our-ability-to-create-a-cohesive-brand-identity-effective-marketing-strategies-and-user-friendly-websites-and-applications-that-help-our-clients-achieve-success-V5v {
+    margin: 0.9rem 5.1rem 0rem 0rem;
+    max-width: 43.1rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #th-qgG .auto-group-xkpj-StL .so-if-youre-a-start-up-looking-to-create-a-strong-brand-identity-or-an-established-business-looking-to-revamp-your-marketing-strategy-we-have-the-expertise-and-experience-to-help-you-succeed-contact-us-today-to-learn-more-about-our-services-and-how-we-can-help-your-business-grow-we-look-forward-to-hearing-from-you-and-starting-this-exciting-journey-together-qZ6 {
+    max-width: 41.7rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #clients-C2G {
+    margin: 11rem 76.7rem 4rem 0rem;
+    width: 49.3rem;
+    height: 14.4rem;
+    position: relative;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW #clients-C2G .projects-for-our-clients-tQt {
+    width: 49.3rem;
+    height: 13.4rem;
+    position: absolute;
+    left: 0;
+    top: 1rem;
+    display: flex;
+    font-size: 5.4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW #clients-C2G .item--CRa {
+    width: 9.6rem;
+    height: 6rem;
+    position: absolute;
+    left: 38.2rem;
+    top: 0;
+    display: flex;
+    font-size: 4.8rem;
+    font-weight: 300;
+    line-height: 1.24;
+    letter-spacing: -0.96rem;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .group-36-6Wx {
+    margin: 0rem 9.5rem 16.6rem 9.5rem;
+    width: calc(100% - 19.0001rem);
+    align-items: center;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel {
+    margin-bottom: 1.1rem;
+    width: 100%;
+    /* height: 33.7rem; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+  }
+  /* .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner{
+    overflow: hidden;
+    display: flex;
+    position: relative;
+  } */
+  /* .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner::after {
+    display: block;
+    clear: both;
+    content: "";
+  } */
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item {
+    flex-shrink: 0;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+    overflow: hidden;
+    /* position: relative; */
+    /* float: left; */
+    /* width: 100%; */
+  } 
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination {
+    margin-bottom: 1.1rem;
+    width: 100%;
+    height: 33.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    backface-visibility: hidden;
+    overflow: hidden;
+    position: relative;
+  } 
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-30-NUU {
+    box-sizing: border-box;
+    padding: 3.6rem 4.8rem 6rem 4.8rem;
+    width:  62.5rem;
+    height: 33.7rem;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../images/bg_branding.jpg');
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-30-NUU .branding-JN8 {
+    margin: 0rem 0rem 5.3rem 0.1rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-30-NUU .title-1 {
+    margin-bottom: 2.2rem;
+    max-width: 25.3rem;
+    font-size: 4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    color: #ffffff;
+    font-family: Unbounded, 'Source Sans Pro';
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-30-NUU .detail-1 {
+    max-width: 26.3rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-30-NUU .group-30-NUU-bg {
+    width: 62.5rem;
+    height: 33.7rem;
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-31-hHn {
+    box-sizing: border-box;
+    padding: 3.3rem 4.8rem 5.5rem 4.8rem;
+    width: 62.5rem;
+    height: 33.7rem;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../images/bg_webdesign.jpg');
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-31-hHn .web-design-2L4 {
+    margin-bottom: 5.3rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-31-hHn .title-2 {
+    margin: 0rem 0rem 1.3rem 0.2rem;
+    max-width: 27.5rem;
+    font-size: 4rem;
+    font-weight: 300;
+    line-height: 1.24;
+    color: #ffffff;
+    font-family: Unbounded, 'Source Sans Pro';
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-31-hHn .detail-2 {
+    max-width: 26.4rem;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.2125;
+    color: #e4e4e4;
+    font-family: Inter, 'Source Sans Pro';
+  }
+  /* .design-desktop-ymW .group-36-6Wx .carousel .carousel-inner .carousel-item .pagination .group-31-hHn .group-31-hHn-bg {
+    width: 62.5rem;
+    height: 33.7rem;
+    position: relative;
+    background-image: url('REPLACE_IMAGE:bbc4f8226ae3daeb55f6f8cce3eb93e75f8cce97');
+  } */
+  .design-desktop-ymW .group-36-6Wx .one-line {
+    display: inline-flex;
+    justify-content: center;
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel-indicators {
+    /* display: inline; */
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 99;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel-indicators .active{
+    opacity: 1;
+    background-color: #e28224;
+  }
+  .design-desktop-ymW .group-36-6Wx .carousel-indicators button{
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 100%;
+    background-color: #ffffff;
+    opacity: 1;
+  }
+  .design-desktop-ymW .group-36-6Wx .one-line .ellipse {
+      position: relative;
+      right: 0;
+      /* bottom: 10px; */
+      /* left: 0; */
+      /* z-index: 15; */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      padding-left: 0;
+      /* margin-right: 15%;
+      margin-left: 15%; */
+      list-style: none;
+      gap: 2rem;
+      width: 15px;
+      height: 15px;  
+  }
+  .design-desktop-ymW .group-36-6Wx .one-line .carousel-control-prev{
+    position: relative;
+    width: 13rem;
+    height: 13rem;
+    top: 0;
+    left: 0;
+    align-items: normal;
+  }
+  .design-desktop-ymW .group-36-6Wx .one-line .carousel-control-next{
+    position: relative;
+    width: 13rem;
+    height: 13rem;
+    top: 0;
+    left: 0;
+    align-items: normal;
+  }
+  .design-desktop-ymW .group-36-6Wx .auto-group-amfa-Vsr {
+    margin-right: 0.2rem;
+    width: 23rem;
+    height: 4rem;
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .footer-Qzp {
+    margin: 0rem 9.5rem 0rem 9.6rem;
+    width: calc(100% - 19.1001rem);
+    height: 13.4rem;
+    position: relative;
+    flex-shrink: 0;
+  }
+  .design-desktop-ymW .footer-Qzp .logo-7uE {
+    width: 43.2rem;
+    height: 13.4rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .design-desktop-ymW .footer-Qzp .logo-7uE .bespoke-design-and-marketing-services-TiC {
+    width: 12.7rem;
+    height: 2.5rem;
+    position: absolute;
+    left: 24rem;
+    top: 5.4rem;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .footer-Qzp .logo-7uE .influenzailla-ZmE {
+    width: 12rem;
+    height: 2rem;
+    position: absolute;
+    left: 7.6rem;
+    top: 5.8rem;
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 1.24;
+    font-family: Unbounded, 'Source Sans Pro';
+    white-space: nowrap;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .footer-Qzp .logo-7uE .rectangle-1-gL4 {
+    width: 43.2rem;
+    height: 13.4rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+  }
+  .design-desktop-ymW .footer-Qzp .logo-7uE .star-1-6Pn {
+    width: 3.4rem;
+    height: 3.4rem;
+    position: absolute;
+    left: 3.1rem;
+    top: 5.1rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U {
+    width: 81.9rem;
+    height: 13.4rem;
+    position: absolute;
+    left: 43rem;
+    top: 0;
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U .group-2-kDS {
+    width: 15.7rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U .group-3-C5S {
+    width: 24.8rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 15.5rem;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U .group-4-UYk {
+    width: 19.9584rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 40.1rem;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U .group-5-mGx {
+    width: 15.5rem;
+    height: 6.8rem;
+    position: absolute;
+    left: 59.9rem;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U .group-6-r3W {
+    box-sizing: border-box;
+    padding: 2.6rem 2.5rem 2.6rem 2.6rem;
+    width: 6.7rem;
+    height: 6.8rem;
+    position: absolute;
+    left: 75.2rem;
+    top: 0;
+    border: solid 0.2rem #ffffff;
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U .group-6-r3W .vector-Mkx {
+    width: 1.6rem;
+    height: 1.6rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U .group-1-tVz {
+    width: 29.1rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 0;
+    top: 6.5954rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U .group-7-jFi {
+    width: 20.8rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 28.9rem;
+    top: 6.5954rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U .group-8-DAt {
+    width: 13.4rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 49.5rem;
+    top: 6.5954rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  }
+  .design-desktop-ymW .footer-Qzp .menu-q6U .group-9-5yn {
+    width: 19.2rem;
+    height: 6.8047rem;
+    position: absolute;
+    left: 62.7rem;
+    top: 6.5954rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    border: solid 0.2rem #ffffff;
+    box-sizing: border-box;
+    background: linear-gradient(
+      180deg,
+      rgb(198, 241, 247) 0%,
+      rgb(249, 131, 233) 36.46%,
+      rgb(184.48, 119, 255) 73.96%,
+      rgb(193.91, 232.69, 205.17) 100%
+    );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }
+  
+}
